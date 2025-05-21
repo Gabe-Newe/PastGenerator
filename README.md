@@ -1,2 +1,2 @@
-# PastGenerator
+# PassGenerator
 это приложение генерирует пароли
